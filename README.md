@@ -179,3 +179,12 @@ Test set: Average loss: 0.8128, Accuracy: 7399/10000 (74%)
 
 Total time: 1412.19, Best Loss: 0.736, Best Accuracy: 0.749
 ```
+
+![output](https://github.com/dkim7405/Basic_ObjectClassification/assets/122648295/126bc525-021e-46a6-9b0c-1b491e8ab1f6)
+![output2](https://github.com/dkim7405/Basic_ObjectClassification/assets/122648295/a98fabc9-3323-41ce-83fd-6ae0360ed115)
+
+![output3_5](https://github.com/dkim7405/Basic_ObjectClassification/assets/122648295/10079d99-daac-426c-ab37-25c7d2d4de4b)
+![output3_4](https://github.com/dkim7405/Basic_ObjectClassification/assets/122648295/768b0ace-5e98-4233-86fd-879be0c61eb9)
+![output3_3](https://github.com/dkim7405/Basic_ObjectClassification/assets/122648295/3acdf31c-56ab-4caf-a20a-0ba1be6cb027)
+![output3_2](https://github.com/dkim7405/Basic_ObjectClassification/assets/122648295/b936b9e2-0b5b-4bf6-9ba5-4b6636b3320b)
+![output3_1](https://github.com/dkim7405/Basic_ObjectClassification/assets/122648295/d6b421eb-c2d5-494d-8f68-ae28ecd94574)
